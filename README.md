@@ -17,16 +17,17 @@ class Goncalo:
         self.location = "Porto, Portugal 🇵🇹"
         self.education = "Computer Science @ UMAIA (2nd Year)"
         self.interests = ["Networking", "Infrastructure", "DevOps"]
-        self.hobbies = ["DJing (Slimfader)", "Cars", "Gaming"]
+        self.hobbies = ["DJing", "Cars", "Gaming"]
         self.current_car = "Opel Astra H 1.7 Diesel"
-        self.music_style = "Hard Groove | Dark & Heavy"
+        self.music_style = ["hip-hop", "techno", "house"]
         
     def daily_routine(self):
         return [
             "☕ Wake up",
-            "💻 Code & Learn",
+            "💻 work",
             "🎧 Make beats",
             "🔧 Fix car problems",
+            "📚 Study",
             "🎮 Game",
             "🔁 Repeat"
         ]
@@ -46,7 +47,7 @@ class Goncalo:
 ```
 Python | JavaScript | TypeScript | SQL
 Node.js | Express | LoopBack 4
-React | React-Admin
+React | React-Admin | Java
 ```
 
 **Tools & Platforms**
@@ -60,7 +61,7 @@ VS Code | Linux | VirtualBox
 - 🔨 Building REST APIs with LoopBack 4
 - 📚 Deep diving into **network protocols** & **infrastructure**
 - 🐳 Mastering **Docker** multi-container setups
-- 🎛️ Producing hard groove sets as **DJ Slimfader**
+- 🎛️ Producing music sets as **DJ Slimfader**
 - 🚗 Keeping my Astra alive (ongoing battle)
 
 ## 🎵 DJ Slimfader
@@ -82,7 +83,7 @@ Daily driving & maintaining an **Opel Astra H 1.7 CDTI**
 
 💼 **Open to**: Internships | Networking Projects | Collaborations  
 🎧 **DJ Bookings**: Available for events  
-📧 **Reach me**: [your-email]  
+📧 **Reach me**: [goncalo.cidras@gmail.com]  
 🔗 **LinkedIn**: [your-linkedin]
 
 ---
