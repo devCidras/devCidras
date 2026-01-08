@@ -1,16 +1,96 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**devCidras/devCidras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔥 Gonçalo Cidras
 
-Here are some ideas to get you started:
+**Computer Science Student | Networking Enthusiast | DJ**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Infrastructure+%26+Networking;Docker+Containers;Backend+Development;DJ+Slimfader+%F0%9F%8E%A7" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+```python
+class Goncalo:
+    def __init__(self):
+        self.location = "Porto, Portugal 🇵🇹"
+        self.education = "Computer Science @ UMAIA (2nd Year)"
+        self.interests = ["Networking", "Infrastructure", "DevOps"]
+        self.hobbies = ["DJing (Slimfader)", "Cars", "Gaming"]
+        self.current_car = "Opel Astra H 1.7 Diesel"
+        self.music_style = "Hard Groove | Dark & Heavy"
+        
+    def daily_routine(self):
+        return [
+            "☕ Wake up",
+            "💻 Code & Learn",
+            "🎧 Make beats",
+            "🔧 Fix car problems",
+            "🎮 Game",
+            "🔁 Repeat"
+        ]
+```
+
+## 🛠️ Tech Arsenal
+
+**Core Focus**
+```
+🌐 Networking & Infrastructure
+🐳 Docker & Containerization  
+🐧 Linux System Administration
+🔒 Network Security (learning)
+```
+
+**Languages & Frameworks**
+```
+Python | JavaScript | TypeScript | SQL
+Node.js | Express | LoopBack 4
+React | React-Admin
+```
+
+**Tools & Platforms**
+```
+Docker | Git | MySQL | MariaDB | Postman
+VS Code | Linux | VirtualBox
+```
+
+## 🎯 Current Missions
+
+- 🔨 Building REST APIs with LoopBack 4
+- 📚 Deep diving into **network protocols** & **infrastructure**
+- 🐳 Mastering **Docker** multi-container setups
+- 🎛️ Producing hard groove sets as **DJ Slimfader**
+- 🚗 Keeping my Astra alive (ongoing battle)
+
+## 🎵 DJ Slimfader
+
+*Hard Groove | Dark Aesthetic | Heavy Beats*
+
+When I'm not pushing code, I'm pushing beats. Check out my sets for some dark, heavy vibes that'll make your speakers sweat.
+
+## 🚗 Car Enthusiast
+
+Daily driving & maintaining an **Opel Astra H 1.7 CDTI**  
+*"If it ain't broke, wait 5 minutes"*
+
+## 💭 Philosophy
+
+> **"Infrastructure should be invisible. Music should be loud."**
+
+## 📫 Let's Connect
+
+💼 **Open to**: Internships | Networking Projects | Collaborations  
+🎧 **DJ Bookings**: Available for events  
+📧 **Reach me**: [your-email]  
+🔗 **LinkedIn**: [your-linkedin]
+
+---
+
+<div align="center">
+
+### ⚡ *"Debugging networks by day, dropping beats by night"* ⚡
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00d4ff&style=flat-square)
+
+</div>
