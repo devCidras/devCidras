@@ -15,7 +15,7 @@
 class Goncalo:
     def __init__(self):
         self.location = "Porto, Portugal 🇵🇹"
-        self.education = "Computer Science @ UMAIA (2nd Year)"
+        self.education = "Computer Science @ UMAIA (3rd Year)"
         self.interests = ["Networking", "Infrastructure", "DevOps"]
         self.hobbies = ["DJing", "Cars", "Gaming"]
         self.current_car = "Opel Astra H 1.7 Diesel"
