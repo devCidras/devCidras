@@ -1,97 +1,38 @@
-<div align="center">
+# Hi, I'm Gonçalo 👋
 
-# 🔥 Gonçalo Cidras
+**IT technician building data automation and GIS pipelines** · Porto, Portugal
 
-**Computer Science Student | Networking Enthusiast | DJ**
+I work in the Strategic Information Office of Câmara Municipal de Matosinhos, where my job is making sure geographic data reaches the people who need it: up to date and trustworthy. I'm also a working student of Computer Science at UMAIA.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Infrastructure+%26+Networking;Docker+Containers;Backend+Development;DJ+Slimfader+%F0%9F%8E%A7" alt="Typing SVG" />
+## What I work with
 
-</div>
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL (SQL Server, PostgreSQL), PowerShell |
+| Data and GIS | pandas, ArcGIS (administration, Feature Services), RTK drone surveying, AutoCAD |
+| Backend | FastAPI, SQLAlchemy, pytest |
+| Ops | Docker, Git, Linux (systemd timers), nginx |
+| Networking | studying towards CCNA |
 
----
+## Public projects
 
-## 👨‍💻 About Me
-```python
-class Goncalo:
-    def __init__(self):
-        self.location = "Porto, Portugal 🇵🇹"
-        self.education = "Computer Science @ UMAIA (3rd Year)"
-        self.interests = ["Networking", "Infrastructure", "DevOps"]
-        self.hobbies = ["DJing", "Cars", "Gaming"]
-        self.current_car = "Opel Astra H 1.7 Diesel"
-        self.music_style = ["hip-hop", "techno", "house"]
-        
-    def daily_routine(self):
-        return [
-            "☕ Wake up",
-            "💻 work",
-            "🎧 Make beats",
-            "🔧 Fix car problems",
-            "📚 Study",
-            "🎮 Game",
-            "🔁 Repeat"
-        ]
-```
+- **[inventory-rest-api-demo](https://github.com/devCidras/inventory-rest-api-demo)**: FastAPI + SQLAlchemy REST API with CRUD, API-key auth and CSV import/export that reports bad rows one by one instead of failing the whole batch. 8 automated tests. [Live demo](https://inventory-rest-api-demo.onrender.com/) (free tier, can take 30-50 s to wake up).
+- **[smb-dashboard-demo](https://github.com/devCidras/smb-dashboard-demo)**: FastAPI + SQLite + Chart.js dashboard with sales, stock and order KPIs for a small business.
+- **[sales-data-automation-demo](https://github.com/devCidras/sales-data-automation-demo)**: Python script that cleans messy sales CSV/Excel exports and generates KPI reports in Excel and PDF.
 
-## 🛠️ Tech Arsenal
+## How I like to build
 
-**Core Focus**
-```
-🌐 Networking & Infrastructure
-🐳 Docker & Containerization  
-🐧 Linux System Administration
-🔒 Network Security (learning)
-```
+Two rules I don't break: never duplicate a record, and never fill in what I don't know. If something doesn't add up, the process stops and says why.
 
-**Languages & Frameworks**
-```
-Python | JavaScript | TypeScript | SQL
-Node.js | Express | LoopBack 4
-React | React-Admin | Java
-```
+## Right now
 
-**Tools & Platforms**
-```
-Docker | Git | MySQL | MariaDB | Postman
-VS Code | Linux | VirtualBox
-```
+- Working towards the CCNA before I finish my degree
+- Exploring how AI agents can safely work on real data: what can they read, what can they change, who sees what they did
 
-## 🎯 Current Missions
+## Outside code
 
-- 🔨 Building REST APIs with LoopBack 4
-- 📚 Deep diving into **network protocols** & **infrastructure**
-- 🐳 Mastering **Docker** multi-container setups
-- 🎛️ Producing music sets as **DJ Slimfader**
-- 🚗 Keeping my Astra alive (ongoing battle)
+I produce music as DJ Slimfader, and I built [dirtysoundboys.com](https://dirtysoundboys.com) for a Porto DJ duo (bilingual, SEO-optimised, served with nginx in Docker).
 
-## 🎵 DJ Slimfader
+## Contact
 
-*Hard Groove | Dark Aesthetic | Heavy Beats*
-
-When I'm not pushing code, I'm pushing beats. Check out my sets for some dark, heavy vibes that'll make your speakers sweat.
-
-## 🚗 Car Enthusiast
-
-Daily driving & maintaining an **Opel Astra H 1.7 CDTI**  
-*"If it ain't broke, wait 5 minutes"*
-
-## 💭 Philosophy
-
-> **"Infrastructure should be invisible. Music should be loud."**
-
-## 📫 Let's Connect
-
-💼 **Open to**: Internships | Networking Projects | Collaborations  
-🎧 **DJ Bookings**: Available for events  
-📧 **Reach me**: goncalo.cidras@gmail.com  
-🔗 **LinkedIn**: https://www.linkedin.com/in/goncalo-cidras/
-
----
-
-<div align="center">
-
-### ⚡ *"Debugging networks by day, dropping beats by night"* ⚡
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00d4ff&style=flat-square)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/goncalo-cidras/)
