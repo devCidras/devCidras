@@ -83,8 +83,8 @@ Daily driving & maintaining an **Opel Astra H 1.7 CDTI**
 
 💼 **Open to**: Internships | Networking Projects | Collaborations  
 🎧 **DJ Bookings**: Available for events  
-📧 **Reach me**: [goncalo.cidras@gmail.com]  
-🔗 **LinkedIn**: [your-linkedin]
+📧 **Reach me**: goncalo.cidras@gmail.com  
+🔗 **LinkedIn**: https://www.linkedin.com/in/goncalo-cidras/
 
 ---
 
